@@ -1,0 +1,18 @@
+.section_header {
+    background-color: chocolate;
+    color: white;
+    text-align:center
+}
+h1{
+padding:0;
+margin:0;
+}
+body{
+    width:100%;
+    margin:0;
+    height:100%;
+}
+.section_Choix_Destination{
+padding-top:20px;
+text-align:center;
+}
